@@ -1,2 +1,2 @@
-print("Hello wprld! 🌍")
+print("Hello world! 🌍")
 print("Welcome to my program! 🎈")
