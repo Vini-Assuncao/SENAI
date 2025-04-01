@@ -1,1 +1,1 @@
-print("Esdtamos testando a criação do arquivo. Estte é o arquivo principal")
+print("Estamos testando a criação do arquivo. Estte é o arquivo principal")
